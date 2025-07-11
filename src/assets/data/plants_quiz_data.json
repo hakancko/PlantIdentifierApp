@@ -1,0 +1,124 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "image": "assets/images/beyazpapatya.avif",
+      "name": "Papatya",
+      "color": "Beyaz"
+    },
+    {
+      "id": 2,
+      "image": "assets/images/kırmızıgül.jpg",
+      "name": "Gül",
+      "color": "Kırmızı"
+    },
+    {
+      "id": 3,
+      "image": "assets/images/sarılale.jpg",
+      "name": "Lale",
+      "color": "Sarı"
+    },
+    {
+      "id": 4,
+      "image": "assets/images/mormenekşe.jpg",
+      "name": "Menekşe",
+      "color": "Mor"
+    },
+    {
+      "id": 5,
+      "image": "assets/images/pembeorkide.webp",
+      "name": "Orkide",
+      "color": "Pembe"
+    },
+    {
+      "id": 6,
+      "image": "assets/images/sarınergis.webp",
+      "name": "Nergis",
+      "color": "Sarı"
+    },
+    {
+      "id": 7,
+      "image": "assets/images/turuncugerbera.jpg",
+      "name": "Gerbera",
+      "color": "Turuncu"
+    },
+    {
+      "id": 8,
+      "image": "assets/images/mavihyacinth.webp",
+      "name": "Sümbül",
+      "color": "Mavi"
+    },
+    {
+      "id": 9,
+      "image": "assets/images/kırmızıkaranfil.webp",
+      "name": "Karanfil",
+      "color": "Kırmızı"
+    },
+    {
+      "id": 10,
+      "image": "assets/images/maviboncuk.jpg",
+      "name": "Boncuk",
+      "color": "Mavi"
+    },
+    {
+      "id": 11,
+      "image": "assets/images/pembeşakayık.webp",
+      "name": "Şakayık",
+      "color": "Pembe"
+    },
+    {
+      "id": 12,
+      "image": "assets/images/beyazmanolya.jpeg",
+      "name": "Manolya",
+      "color": "Beyaz"
+    },
+    {
+      "id": 13,
+      "image": "assets/images/sarıayçiçeği.jpg",
+      "name": "Ayçiçeği",
+      "color": "Sarı"
+    },
+    {
+      "id": 14,
+      "image": "assets/images/maviboncuk.jpg",
+      "name": "Boncuk",
+      "color": "Mavi"
+    },
+    {
+      "id": 15,
+      "image": "assets/images/pembegül.jpg",
+      "name": "Gül",
+      "color": "Pembe"
+    },
+    {
+      "id": 16,
+      "image": "assets/images/turuncukasımpatı.jpeg",
+      "name": "Kasımpatı",
+      "color": "Turuncu"
+    },
+    {
+      "id": 17,
+      "image": "assets/images/kırmızıkaranfil.webp",
+      "name": "Karanfil",
+      "color": "Kırmızı"
+    },
+    {
+      "id": 18,
+      "image": "assets/images/beyazmanolya.jpeg",
+      "name": "Manolya",
+      "color": "Beyaz"
+    },
+    {
+      "id": 19,
+      "image": "assets/images/maviboncuk.jpg",
+      "name": "Boncuk",
+      "color": "Mavi"
+    },
+    {
+      "id": 20,
+      "image": "assets/images/sarımimoza.jpg",
+      "name": "Mimoza",
+      "color": "Sarı"
+    }
+  ]
+}

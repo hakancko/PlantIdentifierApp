@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "OkulOncesiBitki",
+    "slug": "OkulOncesiBitki",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "usesCleartextTraffic": true
+      },
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hakancko.OkulOncesiBitki"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ebdb84b-a0ac-4189-a895-33347f9cb639"
+      }
+    },
+    "owner": "hakanckoo"
+  }
+}
